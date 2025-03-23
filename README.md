@@ -1,6 +1,6 @@
-Conversor de Moneda
-Descripción:
+#Conversor de Moneda
+## Descripción:
 Este es un proyecto para convertir en monedas. Se soporta la divisa de Quetzales, Dólares y Euros
 
-Prerrequisitos:
+## Prerrequisitos:
 Imstalar compilador de C/C++
