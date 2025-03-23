@@ -12,5 +12,5 @@ Se debe seleccionar el tipo de moneda a convertir, luego la moneda a la que se d
 ## Datos del Autor
 
 Nombre: Marvin Fernando Mendez Set<br>
-25002801<br>
-25002801@galileo.edu
+Carnet: 25002801<br>
+Correo: 25002801@galileo.edu
